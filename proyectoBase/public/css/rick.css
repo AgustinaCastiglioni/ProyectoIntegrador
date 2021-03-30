@@ -15,8 +15,15 @@
   }
   .cuerpo{
     margin-bottom: 10px;
+    margin-top: 10px;
   }
   .characters{
    color: mediumblue;
   }
-
+.info{
+  text-align: center;
+  border: lightgrey;
+  border-style: solid;
+  margin-top: 5px;
+  border-width: 1px;
+}
