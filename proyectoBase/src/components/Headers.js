@@ -2,7 +2,7 @@ import React from 'react';
 function Header() {
     return (
         <header>
-        <h1>Rick & Morty Characters</h1>
+        <h1 class="titulo">Rick & Morty <span class="characters">  Characters </span></h1>
       </header>
     );
   }

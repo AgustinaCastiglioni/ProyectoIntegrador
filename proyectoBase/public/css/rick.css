@@ -3,4 +3,17 @@
     align-items: center;
     align-self: center;
     padding-left: 10px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-family: sans-serif;
   }
+  header{
+    background-color: #97b5d8 ;
+  }
+  .cuerpo{
+    margin-bottom: 10px;
+  }
+  .characters{
+   color: blue;
+  }
+
