@@ -6,14 +6,17 @@
     font-weight: bold;
     font-family: 'Roboto';
     font-family: sans-serif;
+    padding-top: 20px;
   }
   header{
-    background-color: #97b5d8 ;
+    background-color: #afc8e4 ;
+    padding: 1px;
+
   }
   .cuerpo{
     margin-bottom: 10px;
   }
   .characters{
-   color: blue;
+   color: mediumblue;
   }
 
